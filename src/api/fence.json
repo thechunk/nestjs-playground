@@ -1,0 +1,8 @@
+{
+  "tags": ["api"],
+  "imports": ["core"],
+  "exports": [{
+    "modules": "**/*",
+    "accessibleTo": "app"
+  }]
+}

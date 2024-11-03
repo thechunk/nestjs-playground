@@ -1,0 +1,6 @@
+{
+  "tags": ["core"],
+  "exports": [{
+    "modules": "**/*"
+  }]
+}
